@@ -1,8 +1,8 @@
 # numworksRGBimg
 i just made this in an afternoon and it could be better.
 
-to use this you need python PIL for the get_pixel() function here:
-<pypi.org/project/Pillow/>
+to use this you need python PIL for the get_pixel() function here
+pypi.org/project/Pillow/
 
 just get a jpg image (a very tiny one, maybe 16x16 to be safe) and run 
 it through the pyhon script, but make sure to fill in the path and width
