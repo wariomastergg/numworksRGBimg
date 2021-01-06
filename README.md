@@ -9,6 +9,7 @@ it through the pyhon script, but make sure to fill in the path and width
 and height.
 
 next, copy and paste the list of rgb values into the value "s", and put in
-the xy width and height.
+the xy width and height here:
+https://workshop.numworks.com/python/wariomastergg/numrgb
 
 im going to optimize this more later, but for now its a proof of concept.
