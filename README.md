@@ -1,5 +1,6 @@
 # numworksRGBimg
 i just made this in an afternoon and it could be better.
+it comes with 2 example images if you want to test it (because its tedious to look for or make images this tiny)
 
 to use this you need python PIL for the get_pixel() function here:
 https://pypi.org/project/Pillow/
