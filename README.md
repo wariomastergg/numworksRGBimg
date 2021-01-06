@@ -11,5 +11,6 @@ and height.
 next, copy and paste the list of rgb values into the value "s", and put in
 the xy width and height here:
 https://workshop.numworks.com/python/wariomastergg/numrgb
+and then your image should appear
 
-im going to optimize this more later, but for now its a proof of concept.
+im going to optimize this more later for larger images, but for now its a proof of concept.
