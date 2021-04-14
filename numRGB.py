@@ -1,6 +1,6 @@
 from PIL import Image
-image =Image.open("/home/micah/Documents/python/image data/mario.jpg") #put file path here
-siz = [8, 8] #put xy image size here
+image =Image.open("") #put file path here
+siz = [, ] #put xy image size here
 s = []
 def hex_to_rgb(value):
     """Return (red, green, blue) for the color given as #rrggbb."""
